@@ -1,0 +1,3 @@
+# ColorAssetCatalogDemoApp
+
+Color asset catalog
