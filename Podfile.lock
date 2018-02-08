@@ -1,0 +1,12 @@
+PODS:
+  - ColorAssetCatalog (1.0)
+
+DEPENDENCIES:
+  - ColorAssetCatalog
+
+SPEC CHECKSUMS:
+  ColorAssetCatalog: 0d5893070d4dcf208fdd48c613db302a98945bbb
+
+PODFILE CHECKSUM: 588c40b97051daf27922543eb657c328b268ada9
+
+COCOAPODS: 1.2.1
